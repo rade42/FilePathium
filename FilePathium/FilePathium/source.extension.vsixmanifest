@@ -4,7 +4,6 @@
     <Identity Id="FilePathium.7471a24d-11a9-46ee-bab1-1907a3355df6" Version="1.0.0" Language="en-US" Publisher="Stefan Hufnagel" />
     <DisplayName>FilePathium</DisplayName>
     <Description>Displays the full file path of the current active document in a footer bar below the text editor.</Description>
-    <License>MIT License</License>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.14, )">

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FilePathium/FilePathium.csproj">
+    <Deploy />
+  </Project>
+</Solution>

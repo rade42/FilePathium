@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="FilePathium.7471a24d-11a9-46ee-bab1-1907a3355df6" Version="1.0.0" Language="en-US" Publisher="Stefan Hufnagel" />
+    <Identity Id="FilePathium.7471a24d-11a9-46ee-bab1-1907a3355df6" Version="1.0.1" Language="en-US" Publisher="Stefan Hufnagel" />
     <DisplayName>FilePathium</DisplayName>
     <Description>Displays the full file path of the current active document in a footer bar below the text editor.</Description>
   </Metadata>
